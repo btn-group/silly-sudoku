@@ -1,0 +1,10 @@
+{
+    "program": "silly_sudoku.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpHnxSysF6KvDgf5m4cz6vae5HeBVC9pbMz9KM1xf1Ev1N",
+        "address": "aleo14arhrxrpc3plm65xpqz8mnz3n6f096g0hj6hudmkfjn8cgk5z5xqgmmr8j"
+    },
+    "license": "MIT"
+}
