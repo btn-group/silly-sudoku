@@ -1,0 +1,24 @@
+// The program input for stable_token/src/main.leo
+[main]
+puzzle: Board = Board {
+    b1: 0u8,
+    b2: 4u8,
+    b3: 6u8,
+    b4: 3u8,
+    b5: 0u8,
+    b6: 9u8,
+    b7: 7u8,
+    b8: 5u8,
+    b9: 0u8,
+};
+answer: Board = Board {
+    b1: 8u8,
+    b2: 4u8,
+    b3: 6u8,
+    b4: 3u8,
+    b5: 1u8,
+    b6: 9u8,
+    b7: 7u8,
+    b8: 5u8,
+    b9: 2u8,
+};
